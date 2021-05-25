@@ -18,7 +18,7 @@
     "long-clickable": false, 
     "password": false, 
     "resource-id": "com.reddit.frontpage:id/bottom_nav_item_icon", 
-    "screen_hash": "7f0760f744e3dcf48de7044b484ec0b7", 
+    "screen_hash": "68493049aeacf214ae5feb544d34ff5f", 
     "scrollable": false, 
     "selected": false, 
     "tag_name": "android.widget.ImageView", 

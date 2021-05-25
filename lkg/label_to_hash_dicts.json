@@ -1,6 +1,53 @@
 {
+    "btn_change_view": [
+        "android.widget.ImageView_984_457_96_132_android.widget.ImageView_0000ffffffffffffe03fc01fdf9fc01fc01fdf9fc01fe03fffffffffffffffff_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "btn_close": [
+        "android.widget.ImageView_474_2016_132_132_android.widget.ImageView_c0006000800000000c300e7007e003c003c007e00e700c300000000000000000_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "btn_home": [
+        "android.widget.ImageView_75_2044_66_66_android.widget.ImageView_fffffc3ff81fe007c0030000800180018001818183c183c183c183c183c1ffff_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "btn_image": [
+        "android.widget.ImageView_270_1835_132_132_android.widget.ImageView_07e01ff83ffc7ffe781ef00ff00ff00ff00ff80ff00f700e7ffe3ffc1ff807e0_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "btn_link": [
+        "android.widget.ImageView_66_1835_132_132_android.widget.ImageView_03c00ff03ffc3ffc7e1e7cdefd5ffc1ff83ffbbf7b3e787e3ffc3ffc0ff003c0_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "btn_menu": [
+        "android.widget.ImageView_28_198_99_99_android.widget.ImageView_ffffffffffbfff03ff43f807e00fe007e003e007e007e00ff01ff039f019f83f_9d4568c009d203ab10e33ea9953a0264", 
+        "android.widget.ImageView_28_198_99_99_android.widget.ImageView_fffffffffffffe7ffc3ffc3ffc3ffc7ff81ff00ff00ff00fffffffffffffffff_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "btn_poll": [
+        "android.widget.ImageView_882_1835_132_132_android.widget.ImageView_03c00ff03ffc3ffc7ffe721efffff20ff20fffff727e7ffe3ffc3ffc0ff003c0_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "btn_settings": [
+        "android.widget.Button_0_1994_354_154_android.widget.Button_ffffffffffffffffffffcfffc4bfc407c403c407cfefffffffffffffffffffff_1c403f8000523889df06049a174d9dea"
+    ], 
+    "btn_sign_up": [
+        "android.widget.TextView_143_713_274_53_android.widget.TextView_ffffffffffffffff3fbd3fbf0ca00080008080c000e000c008c0ddf3ddf3ffff_50c0d5c2f2c83b7b00f1d627ba938d1c"
+    ], 
     "btn_skip": [
         "android.widget.Button_838_171_242_99_android.widget.Button_00000000000000000000038007c007e007e007e007e000400000000000000000_47cce5564cd25f55ec7f53cf0c317a0d"
+    ], 
+    "btn_text": [
+        "android.widget.ImageView_678_1835_132_132_android.widget.ImageView_07e01ff83ffc7ffe781ef00ff00ff00ff00ff00ff00f781e7ffe3ffc1ff807e0_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "btn_toggle_off": [
+        "android.widget.Switch_904_1572_132_66_android.widget.Switch_e007d803bc01fe01fe01fe00fe00ff00ff00fe00fe00fe01fe01bc01d803e007_63fcc1ade3f9412fde85e6e1301a238a"
+    ], 
+    "btn_toggle_on": [
+        "android.widget.Switch_904_1703_132_66_android.widget.Switch_e007c01b803d807f007e007e007f00ff00ff007f007e007e807f803dc01be007_2bacc8dd7b6b40158001846c4564e0f9", 
+        "android.widget.Switch_904_1834_132_66_android.widget.Switch_e007c01b803d807f007e007e007f00ff00ff007f007e007e807f803dc01be007_2bacc8dd7b6b40158001846c4564e0f9"
+    ], 
+    "btn_video": [
+        "android.widget.ImageView_474_1835_132_132_android.widget.ImageView_07e01ff83ffc7ffe7c7ef00ff10ff00ff00ff10ff00f7c3e7ffe3ffc1ff807e0_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "icn_buy_coin": [
+        "android.widget.ImageView_970_202_88_88_android.widget.ImageView_ffffffffffffff3fff8ff84ff86ff3e7f327f827fc6f80018001020080018001_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "icn_chat": [
+        "android.widget.ImageView_723_2044_66_66_android.widget.ImageView_f81ff00fc7e38ff19ff93ffc3ffc324c324c3ffc3ffc9ff99ff937e30007181f_9d4568c009d203ab10e33ea9953a0264"
     ], 
     "icn_communities": [
         "android.widget.ImageView_291_2044_66_66_android.widget.ImageView_ffffe783c1019d399d399d39c101f783cbff81839cbb9c399cb98083c1c1ffff_9d4568c009d203ab10e33ea9953a0264"
@@ -11,10 +58,28 @@
     "icn_home": [
         "android.widget.ImageView_75_2044_66_66_android.widget.ImageView_fffffc3ff81fe007c0030000800180018001818183c183c183c183c183c1ffff_9d4568c009d203ab10e33ea9953a0264"
     ], 
+    "icn_notifications": [
+        "android.widget.ImageView_939_2044_66_66_android.widget.ImageView_fe7ff81ff3cfe7e7e7e7eff7eff7eff7cff39ff93ffc3ffc8001fffffc3ffc3f_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "inp_search": [
+        "android.widget.TextView_154_198_794_99_android.widget.TextView_ffffffffffffffff3fff3fff07ff07ff07ff07ff07ffffffffffffffffffffff_b4f8ba5539b599360a3cccea91c0df32"
+    ], 
     "tab_home": [
         "android.widget.TextView_372_367_118_59_android.widget.TextView_ffffffffffffffff6fff2fff690d000004426400240320006944ffffffffffff_4f113e6636baf9e2e6ab5f9a2d3031d2"
     ], 
+    "tab_messages": [
+        "android.widget.TextView_418_336_271_121_android.widget.TextView_fff8fff0fff0fff0fff8c7ffc003c003c003ffcfffdfffffffffffffffffffff_c10616eb4b5f392d799d1c5560620018"
+    ], 
+    "tab_mod_mail": [
+        "android.widget.TextView_755_336_250_121_android.widget.TextView_fffffffffffffffffffbc6b3c003c003c003fee7ffffffffffffffffffffffff_103d2b78d6a827050c601ecd0898d2ec"
+    ], 
+    "tab_notifications": [
+        "android.widget.TextView_33_336_319_121_android.widget.TextView_fffffffffffffffffdff919f800180018001ffffffffffffffffffffffff0000_ee8730613d3f441841918dcb5502a9c7"
+    ], 
     "tab_popular": [
         "android.widget.TextView_563_367_152_59_android.widget.TextView_ffffffffffffffef1fef1fef4402400008082800680060007480fdfffdffffff_d929cd832a1ccf36d0ac1120c6a1912b"
+    ], 
+    "txt_login": [
+        "android.widget.TextView_648_2007_118_75_android.widget.TextView_ffffffffffff9ff799309030903090308130fe3fff3fffffffffffffffffffff_600bb5b2e4d74ff57114363b8a101e42"
     ]
 }
