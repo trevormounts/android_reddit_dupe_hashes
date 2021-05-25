@@ -1,4 +1,32 @@
 {
-    "elems": {}, 
+    "elems": {
+        "iter_00000_step_00003_52_android.widget.ImageView.png": {
+            "gohomebutton": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00003_59_android.widget.ImageView.png": {
+            "icn_chat": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+        "iter_00000_step_00003_61_android.widget.ImageView.png": {
+            "icn_notifications": {
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }
+    }, 
     "screens": {}
 }

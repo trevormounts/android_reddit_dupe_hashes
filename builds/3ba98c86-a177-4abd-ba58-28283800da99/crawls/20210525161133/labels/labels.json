@@ -1,0 +1,93 @@
+{
+    "elems": {
+        "iter_00000_step_00001_122_android.widget.ImageView.png": [
+            "icn_notifications"
+        ], 
+        "iter_00000_step_00001_16_android.widget.ImageView.png": [
+            "btn_menu"
+        ], 
+        "iter_00000_step_00001_28_android.widget.TextView.png": [
+            "tab_home"
+        ], 
+        "iter_00000_step_00002_122_android.widget.ImageView.png": [
+            "icn_notifications"
+        ], 
+        "iter_00000_step_00002_133_android.widget.TextView.png": [
+            "btn_login"
+        ], 
+        "iter_00000_step_00003_135_android.widget.TextView.png": [
+            "txt_login"
+        ], 
+        "iter_00000_step_00003_42_android.widget.ImageView.png": [
+            "icn_change_view"
+        ], 
+        "iter_00000_step_00006_16_android.widget.ImageView.png": [
+            "btn_menu"
+        ], 
+        "iter_00000_step_00006_17_android.widget.TextView.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00006_21_android.widget.ImageView.png": [
+            "icn_buy_coin"
+        ], 
+        "iter_00000_step_00006_88_android.widget.ImageView.png": [
+            "gohomebutton"
+        ], 
+        "iter_00000_step_00006_95_android.widget.ImageView.png": [
+            "icn_chat"
+        ], 
+        "iter_00000_step_00007_10_android.widget.ImageView.png": [
+            "mnu_post"
+        ], 
+        "iter_00000_step_00007_14_android.widget.ImageView.png": [
+            "icn_link"
+        ], 
+        "iter_00000_step_00007_17_android.widget.ImageView.png": [
+            "icn_image"
+        ], 
+        "iter_00000_step_00007_20_android.widget.ImageView.png": [
+            "icn_video"
+        ], 
+        "iter_00000_step_00007_22_android.widget.ImageView.png": [
+            "icn_close"
+        ], 
+        "iter_00000_step_00007_24_android.widget.ImageView.png": [
+            "icn_text", 
+            "icn_test"
+        ], 
+        "iter_00000_step_00007_27_android.widget.ImageView.png": [
+            "icn_poll"
+        ], 
+        "iter_00000_step_00008_110_android.widget.Button.png": [
+            "btn_create_avatar"
+        ], 
+        "iter_00000_step_00008_126_android.widget.TextView.png": [
+            "lnk_my_profile"
+        ], 
+        "iter_00000_step_00008_143_android.widget.TextView.png": [
+            "lnk_history"
+        ], 
+        "iter_00000_step_00008_144_android.widget.Button.png": [
+            "btn_settings"
+        ], 
+        "iter_00000_step_00010_25_android.widget.TextView.png": [
+            "lnk_change_app_icon"
+        ], 
+        "iter_00000_step_00010_57_android.widget.Switch.png": [
+            "btn_toggle_off"
+        ], 
+        "iter_00000_step_00010_63_android.widget.Switch.png": [
+            "btn_toggle_on"
+        ], 
+        "iter_00000_step_00010_69_android.widget.Switch.png": [
+            "btn_toggle_on"
+        ], 
+        "iter_00000_step_00010_7_android.widget.ImageButton.png": [
+            "btn_back"
+        ], 
+        "iter_00000_step_00010_8_android.widget.TextView.png": [
+            "ttl_settings"
+        ]
+    }, 
+    "screens": {}
+}
