@@ -1,0 +1,81 @@
+{
+    "elems": {
+        "iter_00000_step_00002_127_android.widget.ImageView.png": [
+            "icn_notifications"
+        ], 
+        "iter_00000_step_00002_16_android.widget.ImageView.png": [
+            "btn_menu"
+        ], 
+        "iter_00000_step_00003_138_android.widget.TextView.png": [
+            "btn_sign_up"
+        ], 
+        "iter_00000_step_00003_139_android.widget.Button.png": [
+            "btn_settings"
+        ], 
+        "iter_00000_step_00004_140_android.widget.TextView.png": [
+            "txt_login"
+        ], 
+        "iter_00000_step_00008_14_android.widget.ImageView.png": [
+            "btn_link"
+        ], 
+        "iter_00000_step_00008_17_android.widget.ImageView.png": [
+            "btn_image"
+        ], 
+        "iter_00000_step_00008_20_android.widget.ImageView.png": [
+            "btn_video"
+        ], 
+        "iter_00000_step_00008_22_android.widget.ImageView.png": [
+            "btn_close"
+        ], 
+        "iter_00000_step_00008_24_android.widget.ImageView.png": [
+            "btn_text"
+        ], 
+        "iter_00000_step_00008_27_android.widget.ImageView.png": [
+            "btn_poll"
+        ], 
+        "iter_00000_step_00009_25_android.widget.TextView.png": [
+            "tab_notifications"
+        ], 
+        "iter_00000_step_00009_28_android.widget.TextView.png": [
+            "tab_messages"
+        ], 
+        "iter_00000_step_00009_32_android.widget.TextView.png": [
+            "tab_mod_mail"
+        ], 
+        "iter_00000_step_00010_115_android.widget.ImageView.png": [
+            "btn_home", 
+            "icn_home"
+        ], 
+        "iter_00000_step_00010_117_android.widget.ImageView.png": [
+            "icn_communities"
+        ], 
+        "iter_00000_step_00010_119_android.widget.ImageView.png": [
+            "icn_create_post"
+        ], 
+        "iter_00000_step_00010_121_android.widget.ImageView.png": [
+            "icn_chat"
+        ], 
+        "iter_00000_step_00010_16_android.widget.ImageView.png": [
+            "btn_menu"
+        ], 
+        "iter_00000_step_00010_18_android.widget.TextView.png": [
+            "inp_search"
+        ], 
+        "iter_00000_step_00010_22_android.widget.ImageView.png": [
+            "icn_buy_coin"
+        ], 
+        "iter_00000_step_00010_44_android.widget.ImageView.png": [
+            "btn_change_view"
+        ], 
+        "iter_00000_step_00011_52_android.widget.Switch.png": [
+            "btn_toggle_off"
+        ], 
+        "iter_00000_step_00011_58_android.widget.Switch.png": [
+            "btn_toggle_on"
+        ], 
+        "iter_00000_step_00011_64_android.widget.Switch.png": [
+            "btn_toggle_on"
+        ]
+    }, 
+    "screens": {}
+}
