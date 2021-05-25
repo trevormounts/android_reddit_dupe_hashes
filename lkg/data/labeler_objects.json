@@ -1,0 +1,311 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "MWIxYWJhNzc1M2VmMDg2MzY1MDMyMTgwNjYxMjI3NDg.png": "MWIxYWJhNzc1M2VmMDg2MzY1MDMyMTgwNjYxMjI3NDg.png", 
+            "MzVhMDk1NmE4MDg0NTE5YmIwYWY0OGQxZDdhNTI3OWQ.png": "MzVhMDk1NmE4MDg0NTE5YmIwYWY0OGQxZDdhNTI3OWQ.png", 
+            "MzkxMGFjZjg2NmNlZWM4YTdiZGRhOWE0NmY2NWJlZjQ.png": "MzkxMGFjZjg2NmNlZWM4YTdiZGRhOWE0NmY2NWJlZjQ.png", 
+            "Y2YzNzg1YjFiNzY5NzUxYmY2NTcxMmI0YWJkNzBjZjg.png": "Y2YzNzg1YjFiNzY5NzUxYmY2NTcxMmI0YWJkNzBjZjg.png", 
+            "YzhiZWY5OTg4YmZjZTMzYjhiNDYzZGIwMGMwODMxM2Q.png": "YzhiZWY5OTg4YmZjZTMzYjhiNDYzZGIwMGMwODMxM2Q.png", 
+            "ZmNmZTNkNDZjNjYyMWFmMmQ2YTcxODI0ZmFjYmI0ODY.png": "ZmNmZTNkNDZjNjYyMWFmMmQ2YTcxODI0ZmFjYmI0ODY.png"
+        }, 
+        "elems_to_infos": {
+            "MWIxYWJhNzc1M2VmMDg2MzY1MDMyMTgwNjYxMjI3NDg.png": {
+                "context_screen_img": "7f0760f744e3dcf48de7044b484ec0b7.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "MWIxYWJhNzc1M2VmMDg2MzY1MDMyMTgwNjYxMjI3NDg.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "8FWPlbYdhNHGxuh0JOUbYA==\n", 
+                    "height": 66, 
+                    "human_hash": "android.widget.ImageView_X75_Y2044_W66_H66", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 66, 
+                    "x": 75, 
+                    "y": 2044
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "MzVhMDk1NmE4MDg0NTE5YmIwYWY0OGQxZDdhNTI3OWQ.png": {
+                "context_screen_img": "7f0760f744e3dcf48de7044b484ec0b7.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "MzVhMDk1NmE4MDg0NTE5YmIwYWY0OGQxZDdhNTI3OWQ.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "AkswtJG2nr6XhKNt+Abx8g==\n", 
+                    "height": 66, 
+                    "human_hash": "android.widget.ImageView_X291_Y2044_W66_H66", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 66, 
+                    "x": 291, 
+                    "y": 2044
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "MzkxMGFjZjg2NmNlZWM4YTdiZGRhOWE0NmY2NWJlZjQ.png": {
+                "context_screen_img": "37d9b9db14ded8e8ce1786e17a665d7f.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "MzkxMGFjZjg2NmNlZWM4YTdiZGRhOWE0NmY2NWJlZjQ.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "zFcunmNwBVoWR0OhDWGGMg==\n", 
+                    "height": 99, 
+                    "human_hash": "android.widget.Button_X838_Y171_W242_H99", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "Skip", 
+                    "width": 242, 
+                    "x": 838, 
+                    "y": 171
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Skip"
+                ]
+            }, 
+            "Y2YzNzg1YjFiNzY5NzUxYmY2NTcxMmI0YWJkNzBjZjg.png": {
+                "context_screen_img": "7f0760f744e3dcf48de7044b484ec0b7.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "Y2YzNzg1YjFiNzY5NzUxYmY2NTcxMmI0YWJkNzBjZjg.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "LyXVM3ydXq61/GAapkvRmA==\n", 
+                    "height": 59, 
+                    "human_hash": "android.widget.TextView_X563_Y367_W152_H59", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Popular", 
+                    "width": 152, 
+                    "x": 563, 
+                    "y": 367
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Popular"
+                ]
+            }, 
+            "YzhiZWY5OTg4YmZjZTMzYjhiNDYzZGIwMGMwODMxM2Q.png": {
+                "context_screen_img": "7f0760f744e3dcf48de7044b484ec0b7.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "YzhiZWY5OTg4YmZjZTMzYjhiNDYzZGIwMGMwODMxM2Q.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "zFCKo+0ICIiaf1R2Or9K/w==\n", 
+                    "height": 59, 
+                    "human_hash": "android.widget.TextView_X372_Y367_W118_H59", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Home", 
+                    "width": 118, 
+                    "x": 372, 
+                    "y": 367
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Home"
+                ]
+            }, 
+            "ZmNmZTNkNDZjNjYyMWFmMmQ2YTcxODI0ZmFjYmI0ODY.png": {
+                "context_screen_img": "7f0760f744e3dcf48de7044b484ec0b7.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "ZmNmZTNkNDZjNjYyMWFmMmQ2YTcxODI0ZmFjYmI0ODY.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "KrNlS8JwbltbTFZB3FeTEQ==\n", 
+                    "height": 66, 
+                    "human_hash": "android.widget.ImageView_X507_Y2043_W66_H66", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 66, 
+                    "x": 507, 
+                    "y": 2043
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "MzVhMDk1NmE4MDg0NTE5YmIwYWY0OGQxZDdhNTI3OWQ.png", 
+            "MWIxYWJhNzc1M2VmMDg2MzY1MDMyMTgwNjYxMjI3NDg.png", 
+            "MzkxMGFjZjg2NmNlZWM4YTdiZGRhOWE0NmY2NWJlZjQ.png", 
+            "Y2YzNzg1YjFiNzY5NzUxYmY2NTcxMmI0YWJkNzBjZjg.png", 
+            "ZmNmZTNkNDZjNjYyMWFmMmQ2YTcxODI0ZmFjYmI0ODY.png", 
+            "YzhiZWY5OTg4YmZjZTMzYjhiNDYzZGIwMGMwODMxM2Q.png"
+        ], 
+        "uniques_to_dupes": {
+            "MWIxYWJhNzc1M2VmMDg2MzY1MDMyMTgwNjYxMjI3NDg.png": [
+                "MWIxYWJhNzc1M2VmMDg2MzY1MDMyMTgwNjYxMjI3NDg.png"
+            ], 
+            "MzVhMDk1NmE4MDg0NTE5YmIwYWY0OGQxZDdhNTI3OWQ.png": [
+                "MzVhMDk1NmE4MDg0NTE5YmIwYWY0OGQxZDdhNTI3OWQ.png"
+            ], 
+            "MzkxMGFjZjg2NmNlZWM4YTdiZGRhOWE0NmY2NWJlZjQ.png": [
+                "MzkxMGFjZjg2NmNlZWM4YTdiZGRhOWE0NmY2NWJlZjQ.png"
+            ], 
+            "Y2YzNzg1YjFiNzY5NzUxYmY2NTcxMmI0YWJkNzBjZjg.png": [
+                "Y2YzNzg1YjFiNzY5NzUxYmY2NTcxMmI0YWJkNzBjZjg.png"
+            ], 
+            "YzhiZWY5OTg4YmZjZTMzYjhiNDYzZGIwMGMwODMxM2Q.png": [
+                "YzhiZWY5OTg4YmZjZTMzYjhiNDYzZGIwMGMwODMxM2Q.png"
+            ], 
+            "ZmNmZTNkNDZjNjYyMWFmMmQ2YTcxODI0ZmFjYmI0ODY.png": [
+                "ZmNmZTNkNDZjNjYyMWFmMmQ2YTcxODI0ZmFjYmI0ODY.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "37d9b9db14ded8e8ce1786e17a665d7f.png": "37d9b9db14ded8e8ce1786e17a665d7f.png", 
+            "7f0760f744e3dcf48de7044b484ec0b7.png": "7f0760f744e3dcf48de7044b484ec0b7.png"
+        }, 
+        "screens_to_elems": {}, 
+        "screens_to_infos": {
+            "37d9b9db14ded8e8ce1786e17a665d7f.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "37d9b9db14ded8e8ce1786e17a665d7f.png"
+                ], 
+                "tags": [
+                    "android.widget.button", 
+                    "android.view.view", 
+                    "android.widget.framelayout", 
+                    "viewswitcher", 
+                    "android.widget.imageview", 
+                    "button", 
+                    "android.view.viewgroup", 
+                    "android.widget.textview", 
+                    "framelayout", 
+                    "imageview", 
+                    "all_screens", 
+                    "relativelayout", 
+                    "android.widget.relativelayout", 
+                    "android.widget.viewswitcher", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "by_continuing,_you_agree_to_our_user_agreement_and_privacy_policy.__", 
+                    "already_a_redditor?_log_in", 
+                    "skip", 
+                    "by_continuing,_you_agree_to_our_user_agreement_and_privacy_policy.___sign_up_with_google_sign_up_with_apple_sign_up_with_email_already_a_redditor?_log_in", 
+                    "sign_up_with_email", 
+                    "sign_up_with_google", 
+                    "skip_by_continuing,_you_agree_to_our_user_agreement_and_privacy_policy.___sign_up_with_google_sign_up_with_apple_sign_up_with_email_already_a_redditor?_log_in", 
+                    "sign_up_with_apple"
+                ]
+            }, 
+            "7f0760f744e3dcf48de7044b484ec0b7.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "7f0760f744e3dcf48de7044b484ec0b7.png"
+                ], 
+                "tags": [
+                    "horizontalscrollview", 
+                    "androidx.viewpager.widget.viewpager", 
+                    "android.widget.framelayout", 
+                    "android.widget.horizontalscrollview", 
+                    "android.widget.imageview", 
+                    "android.widget.button", 
+                    "button", 
+                    "android.widget.scrollview", 
+                    "android.view.viewgroup", 
+                    "androidx.drawerlayout.widget.drawerlayout", 
+                    "scrollview", 
+                    "framelayout", 
+                    "android.widget.textview", 
+                    "all_screens", 
+                    "imageview", 
+                    "android.view.view", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "home_popular_welcome!_there's_a_reddit_community_for_every_topic_imaginable_vote_on_posts_and_help_communities_lift_the_best_content_to_the_top!_join_communities_to_fill_this_home_feed_with_fresh_posts_log_in_sign_up", 
+                    "search", 
+                    "welcome!_there's_a_reddit_community_for_every_topic_imaginable_vote_on_posts_and_help_communities_lift_the_best_content_to_the_top!_join_communities_to_fill_this_home_feed_with_fresh_posts", 
+                    "search_home_popular_welcome!_there's_a_reddit_community_for_every_topic_imaginable_vote_on_posts_and_help_communities_lift_the_best_content_to_the_top!_join_communities_to_fill_this_home_feed_with_fresh_posts_log_in_sign_up", 
+                    "welcome!_there's_a_reddit_community_for_every_topic_imaginable_vote_on_posts_and_help_communities_lift_the_best_content_to_the_top!_join_communities_to_fill_this_home_feed_with_fresh_posts_log_in_sign_up", 
+                    "sign_up", 
+                    "join", 
+                    "there's_a_reddit_community_for_every_topic_imaginable", 
+                    "welcome!", 
+                    "vote", 
+                    "communities_to_fill_this_home_feed_with_fresh_posts", 
+                    "popular", 
+                    "home", 
+                    "on_posts_and_help_communities_lift_the_best_content_to_the_top!", 
+                    "home_popular", 
+                    "log_in", 
+                    "log_in_sign_up"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "37d9b9db14ded8e8ce1786e17a665d7f.png", 
+            "7f0760f744e3dcf48de7044b484ec0b7.png"
+        ], 
+        "uniques_to_dupes": {
+            "37d9b9db14ded8e8ce1786e17a665d7f.png": [
+                "37d9b9db14ded8e8ce1786e17a665d7f.png"
+            ], 
+            "7f0760f744e3dcf48de7044b484ec0b7.png": [
+                "7f0760f744e3dcf48de7044b484ec0b7.png"
+            ]
+        }
+    }
+}

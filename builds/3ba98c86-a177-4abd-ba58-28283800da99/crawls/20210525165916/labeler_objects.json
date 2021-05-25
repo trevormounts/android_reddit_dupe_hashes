@@ -1,0 +1,524 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png": "iter_00000_step_00000_0_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_10_android.widget.LinearLayout.png": "iter_00000_step_00000_10_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_11_android.widget.TextView.png": "iter_00000_step_00000_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_12_android.widget.ScrollView.png": "iter_00000_step_00000_12_android.widget.ScrollView.png", 
+            "iter_00000_step_00000_13_android.widget.LinearLayout.png": "iter_00000_step_00000_13_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_14_android.widget.Button.png": "iter_00000_step_00000_14_android.widget.Button.png", 
+            "iter_00000_step_00000_1_android.widget.FrameLayout.png": "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_2_android.widget.FrameLayout.png": "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png": "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_4_android.widget.LinearLayout.png": "iter_00000_step_00000_4_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_5_android.widget.LinearLayout.png": "iter_00000_step_00000_5_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_6_android.widget.TextView.png": "iter_00000_step_00000_6_android.widget.TextView.png", 
+            "iter_00000_step_00000_7_android.view.View.png": "iter_00000_step_00000_7_android.view.View.png", 
+            "iter_00000_step_00000_8_android.widget.FrameLayout.png": "iter_00000_step_00000_8_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_9_android.widget.ScrollView.png": "iter_00000_step_00000_9_android.widget.ScrollView.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "Lpb9bHevBIYWuN2VHmxEXg==\n", 
+                    "height": 530, 
+                    "human_hash": "android.widget.FrameLayout_X28_Y842_W1024_H530", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Update Google Play services Reddit won't run unless you update Google Play services. UPDATE", 
+                    "width": 1024, 
+                    "x": 28, 
+                    "y": 842
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Update_Google_Play_services_Reddit_won't_run_unless_you_update_Google_Play_services._UPDATE"
+                ]
+            }, 
+            "iter_00000_step_00000_10_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_10_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "ARr7sNtOu6njFCfkDEN+xA==\n", 
+                    "height": 111, 
+                    "human_hash": "android.widget.LinearLayout_X72_Y1025_W936_H111", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Reddit won't run unless you update Google Play services.", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 1025
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Reddit_won't_run_unless_you_update_Google_Play_services."
+                ]
+            }, 
+            "iter_00000_step_00000_11_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_11_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "9W/0CjhxIDy8OnadWICMow==\n", 
+                    "height": 111, 
+                    "human_hash": "android.widget.TextView_X72_Y1025_W936_H111", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Reddit won't run unless you update Google Play services.", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 1025
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Reddit_won't_run_unless_you_update_Google_Play_services."
+                ]
+            }, 
+            "iter_00000_step_00000_12_android.widget.ScrollView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_12_android.widget.ScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ScrollView", 
+                    "hash": "k0fkyq07QwVgGbI1GzsidQ==\n", 
+                    "height": 171, 
+                    "human_hash": "android.widget.ScrollView_X72_Y1157_W936_H171", 
+                    "tag_name": "android.widget.ScrollView", 
+                    "text": "UPDATE", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 1157
+                }, 
+                "tags": [
+                    "android.widget.scrollview", 
+                    "all_elems", 
+                    "scrollview", 
+                    "scroll"
+                ], 
+                "text": [
+                    "UPDATE"
+                ]
+            }, 
+            "iter_00000_step_00000_13_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_13_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "q/AV96SoF3WgTqBcafKHaQ==\n", 
+                    "height": 171, 
+                    "human_hash": "android.widget.LinearLayout_X72_Y1157_W936_H171", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "UPDATE", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 1157
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "UPDATE"
+                ]
+            }, 
+            "iter_00000_step_00000_14_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_14_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "z6YCChcPGzPzTv/NPLD6FA==\n", 
+                    "height": 149, 
+                    "human_hash": "android.widget.Button_X764_Y1168_W211_H149", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "UPDATE", 
+                    "width": 211, 
+                    "x": 764, 
+                    "y": 1168
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "UPDATE"
+                ]
+            }, 
+            "iter_00000_step_00000_2_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_1_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "ktwbvGhIMXx4IggZemiZYg==\n", 
+                    "height": 442, 
+                    "human_hash": "android.widget.FrameLayout_X72_Y886_W936_H442", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Update Google Play services Reddit won't run unless you update Google Play services. UPDATE", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 886
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Update_Google_Play_services_Reddit_won't_run_unless_you_update_Google_Play_services._UPDATE"
+                ]
+            }, 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_3_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "SnQfmPeAVRSZrZBFNj5X2Q==\n", 
+                    "height": 442, 
+                    "human_hash": "android.widget.LinearLayout_X72_Y886_W936_H442", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Update Google Play services Reddit won't run unless you update Google Play services. UPDATE", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 886
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Update_Google_Play_services_Reddit_won't_run_unless_you_update_Google_Play_services._UPDATE"
+                ]
+            }, 
+            "iter_00000_step_00000_4_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_4_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "12WBGP6aHG5J/3Dtli86MQ==\n", 
+                    "height": 139, 
+                    "human_hash": "android.widget.LinearLayout_X72_Y886_W936_H139", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Update Google Play services", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 886
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Update_Google_Play_services"
+                ]
+            }, 
+            "iter_00000_step_00000_5_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_5_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "vbHghmo7QjCBOcZyPSZ9tQ==\n", 
+                    "height": 117, 
+                    "human_hash": "android.widget.LinearLayout_X72_Y886_W936_H117", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Update Google Play services", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 886
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Update_Google_Play_services"
+                ]
+            }, 
+            "iter_00000_step_00000_6_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_6_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "SBBmp1NaDD9nVZuPUPDDgw==\n", 
+                    "height": 67, 
+                    "human_hash": "android.widget.TextView_X138_Y936_W804_H67", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Update Google Play services", 
+                    "width": 804, 
+                    "x": 138, 
+                    "y": 936
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Update_Google_Play_services"
+                ]
+            }, 
+            "iter_00000_step_00000_7_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_7_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "+EeYLk8pYgv2V63hlU+YRw==\n", 
+                    "height": 22, 
+                    "human_hash": "android.view.View_X72_Y1003_W936_H22", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 1003
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00000_8_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_8_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "TQs52qILEFULm28e1q7q5Q==\n", 
+                    "height": 132, 
+                    "human_hash": "android.widget.FrameLayout_X72_Y1025_W936_H132", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Reddit won't run unless you update Google Play services.", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 1025
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Reddit_won't_run_unless_you_update_Google_Play_services."
+                ]
+            }, 
+            "iter_00000_step_00000_9_android.widget.ScrollView.png": {
+                "context_screen_img": "iter_00000_step_00000_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00000_9_android.widget.ScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ScrollView", 
+                    "hash": "QLcVyvxQm/xMDHuQh9v4IA==\n", 
+                    "height": 111, 
+                    "human_hash": "android.widget.ScrollView_X72_Y1025_W936_H111", 
+                    "tag_name": "android.widget.ScrollView", 
+                    "text": "Reddit won't run unless you update Google Play services.", 
+                    "width": 936, 
+                    "x": 72, 
+                    "y": 1025
+                }, 
+                "tags": [
+                    "android.widget.scrollview", 
+                    "all_elems", 
+                    "scrollview", 
+                    "scroll"
+                ], 
+                "text": [
+                    "Reddit_won't_run_unless_you_update_Google_Play_services."
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_13_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_12_android.widget.ScrollView.png", 
+            "iter_00000_step_00000_4_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_8_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_5_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_9_android.widget.ScrollView.png", 
+            "iter_00000_step_00000_11_android.widget.TextView.png", 
+            "iter_00000_step_00000_10_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_6_android.widget.TextView.png", 
+            "iter_00000_step_00000_14_android.widget.Button.png", 
+            "iter_00000_step_00000_7_android.view.View.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_10_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_10_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_11_android.widget.TextView.png": [
+                "iter_00000_step_00000_11_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_12_android.widget.ScrollView.png": [
+                "iter_00000_step_00000_12_android.widget.ScrollView.png"
+            ], 
+            "iter_00000_step_00000_13_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_13_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_14_android.widget.Button.png": [
+                "iter_00000_step_00000_14_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00000_2_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_1_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_3_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_4_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_4_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_5_android.widget.LinearLayout.png": [
+                "iter_00000_step_00000_5_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00000_6_android.widget.TextView.png": [
+                "iter_00000_step_00000_6_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00000_7_android.view.View.png": [
+                "iter_00000_step_00000_7_android.view.View.png"
+            ], 
+            "iter_00000_step_00000_8_android.widget.FrameLayout.png": [
+                "iter_00000_step_00000_8_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00000_9_android.widget.ScrollView.png": [
+                "iter_00000_step_00000_9_android.widget.ScrollView.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_0_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_4_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_5_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_6_android.widget.TextView.png", 
+                "iter_00000_step_00000_7_android.view.View.png", 
+                "iter_00000_step_00000_8_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_9_android.widget.ScrollView.png", 
+                "iter_00000_step_00000_10_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_11_android.widget.TextView.png", 
+                "iter_00000_step_00000_12_android.widget.ScrollView.png", 
+                "iter_00000_step_00000_13_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_14_android.widget.Button.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.button", 
+                    "android.widget.textview", 
+                    "button", 
+                    "android.widget.scrollview", 
+                    "scrollview", 
+                    "framelayout", 
+                    "all_screens", 
+                    "android.widget.framelayout", 
+                    "android.view.view", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "update_google_play_services", 
+                    "", 
+                    "reddit_won't_run_unless_you_update_google_play_services.", 
+                    "update_google_play_services_reddit_won't_run_unless_you_update_google_play_services._update", 
+                    "update"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png"
+            ]
+        }
+    }
+}

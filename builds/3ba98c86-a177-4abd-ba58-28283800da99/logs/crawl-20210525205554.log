@@ -1,0 +1,161 @@
+2021-05-25 16:55:54,338 INFO     test_ai_mod.carbon_controllers.crawls -- Logging crawl output to /Users/bot/test_ai/apps/2eba1d88-abac-4204-be0a-26a9932f9c3d/builds/3ba98c86-a177-4abd-ba58-28283800da99/logs/crawl-20210525205554.log
+2021-05-25 16:55:54,340 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- crawling build, app_id: 2eba1d88-abac-4204-be0a-26a9932f9c3d, build_id: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:55:54,340 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- num_steps (when no test): 25
+2021-05-25 16:55:54,340 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- max_steps: 150
+2021-05-25 16:55:54,340 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- max_iterations: 1
+2021-05-25 16:55:54,340 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- rand_seed: 1621976019
+2021-05-25 16:55:54,340 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- test_wildcard: *
+2021-05-25 16:55:54,340 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- package: com.reddit.frontpage
+2021-05-25 16:55:54,340 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- eyes_api_key: None
+2021-05-25 16:55:54,341 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- is_noop: False
+2021-05-25 16:55:54,342 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- created crawl, id: 20210525165554
+2021-05-25 16:55:54,342 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:55:54,343 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:55:54,417 INFO     werkzeug -- 127.0.0.1 - - [25/May/2021 16:55:54] "[37mGET /favicon.ico HTTP/1.1[0m" 200 -
+2021-05-25 16:55:54,560 INFO     test_ai_mod.carbon_explore.explore -- using default extra walk count: 0
+2021-05-25 16:55:54,564 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- initiating walk [1/1]
+2021-05-25 16:55:54,564 INFO     test_ai_mod.carbon_test_case.carbon_tests -- initial number of steps for walk: 25
+2021-05-25 16:55:54,564 INFO     test_ai_mod.carbon_tasks.crawl_build_task -- effective_max_steps this walk: 26
+2021-05-25 16:55:54,565 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-25 16:55:54,565 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-25 16:55:54,565 INFO     test_ai_mod.carbon_explore.explore -- *                                                *
+2021-05-25 16:55:54,565 INFO     test_ai_mod.carbon_explore.explore -- *                   BRAIN                    *
+2021-05-25 16:55:54,565 INFO     test_ai_mod.carbon_explore.explore -- *                                                *
+2021-05-25 16:55:54,565 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-25 16:55:54,565 INFO     test_ai_mod.carbon_explore.explore -- **************************************************
+2021-05-25 16:55:54,565 INFO     test_ai_mod.carbon_initialization.initialization -- Random seed: 1621976019
+2021-05-25 16:55:54,566 INFO     test_ai_mod.carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-05-25 16:55:54,566 INFO     test_ai_mod.carbon_initialization.initialization --                   PACKAGE: com.reddit.frontpage
+2021-05-25 16:55:54,566 INFO     test_ai_mod.carbon_initialization.initialization -- ````````````````````````````````````````````````````````````````````````````````
+2021-05-25 16:55:54,566 INFO     test_ai_mod.carbon_initialization.initialization -- platform: ANDROID
+2021-05-25 16:55:54,566 INFO     test_ai_mod.carbon_initialization.initialization -- using crawl_directory: /Users/bot/test_ai/apps/2eba1d88-abac-4204-be0a-26a9932f9c3d/builds/3ba98c86-a177-4abd-ba58-28283800da99/crawls/20210525165554
+2021-05-25 16:55:54,566 INFO     test_ai_mod.carbon_botio.bot_io -- retrieving bot IO for app: 2eba1d88-abac-4204-be0a-26a9932f9c3d
+2021-05-25 16:55:54,566 INFO     test_ai_mod.carbon_botio.bot_io -- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021-05-25 16:55:54,566 INFO     test_ai_mod.carbon_botio.bot_io -- botio_filepath: /Users/bot/test_ai/apps/2eba1d88-abac-4204-be0a-26a9932f9c3d/lkg/botio.json
+2021-05-25 16:55:54,567 INFO     test_ai_mod.carbon_botio.bot_io -- use_snapshot: False
+2021-05-25 16:55:54,567 INFO     test_ai_mod.carbon_botio.bot_io -- no botIO found for app: 2eba1d88-abac-4204-be0a-26a9932f9c3d
+2021-05-25 16:55:54,567 INFO     test_ai_mod.carbon_dao.carbon_data -- loading models from LKG dir
+2021-05-25 16:55:54,567 INFO     test_ai_mod.carbon_dao.carbon_data -- loading models from LKG dir
+2021-05-25 16:55:54,568 INFO     test_ai_mod.carbon_explore.test_hooks -- Test case is None, no need for on_setup.
+2021-05-25 16:55:54,568 INFO     test_ai_mod.carbon_utils.simulator_tools -- preparing clean iteration state...
+2021-05-25 16:55:54,700 INFO     werkzeug -- 127.0.0.1 - - [25/May/2021 16:55:54] "[37mGET /api/v2/status HTTP/1.1[0m" 200 -
+2021-05-25 16:55:54,734 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:55:54,735 INFO     werkzeug -- 127.0.0.1 - - [25/May/2021 16:55:54] "[37mGET /api/v1/c/testai/apps/android/2eba1d88-abac-4204-be0a-26a9932f9c3d/tests HTTP/1.1[0m" 200 -
+2021-05-25 16:55:54,778 INFO     werkzeug -- 127.0.0.1 - - [25/May/2021 16:55:54] "[37mGET /api/v1/config/widgets HTTP/1.1[0m" 200 -
+2021-05-25 16:56:05,070 INFO     werkzeug -- 127.0.0.1 - - [25/May/2021 16:56:05] "[37mGET /api/v2/status HTTP/1.1[0m" 200 -
+2021-05-25 16:56:19,444 ERROR    test_ai_mod.carbon_explore.explore -- unexpected error
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_explore/explore.py", line 318, in explore.perform_walk
+  File "test_ai_mod/carbon_initialization/initialization.py", line 189, in initialization.initialize_run
+  File "test_ai_mod/carbon_utils/simulator_tools.py", line 193, in simulator_tools.clean_iteration_state
+  File "test_ai_mod/carbon_automation/driver_factory.py", line 167, in driver_factory.DriverFactory.create_android_driver
+  File "test_ai_mod/carbon_automation/driver_factory.py", line 180, in driver_factory.DriverFactory._create
+  File "test_ai_mod/carbon_automation/driver.py", line 37, in driver.Driver.__init__
+  File "test_ai_mod/carbon_automation/sessions/http/http_session_adapter_factory.py", line 63, in http_session_adapter_factory.HttpSessionAdapterFactory.get_session
+  File "test_ai_mod/carbon_automation/sessions/http/http_client.py", line 72, in http_client.create_session
+AutomatorSessionError: Error creating session, 500, Command "adb shell dumpsys window" exited with code 1 and output: adb: device offline
+2021-05-25 16:56:19,446 INFO     test_ai_mod.carbon_explore.explore -- performing post-walk cleanup
+2021-05-25 16:56:19,446 ERROR    test_ai_mod.carbon_explore.explore -- Error terminating app: com.reddit.frontpage
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_explore/explore.py", line 360, in explore.perform_walk
+AttributeError: 'NoneType' object has no attribute 'terminate_app'
+2021-05-25 16:56:19,446 INFO     test_ai_mod.carbon_utils.simulator_tools -- performing post-test cleanup
+2021-05-25 16:56:19,447 INFO     test_ai_mod.carbon_utils.simulator_tools -- calling driver.quit
+2021-05-25 16:56:19,448 INFO     test_ai_mod.carbon_utils.simulator_tools -- issue quitting driver: 'NoneType' object has no attribute 'quit'
+2021-05-25 16:56:19,449 ERROR    test_ai_mod.carbon_tasks.crawl_build_task -- failed!!
+Traceback (most recent call last):
+  File "test_ai_mod/carbon_tasks/crawl_build_task.py", line 160, in crawl_build_task.crawl_build
+  File "test_ai_mod/carbon_utils/performance_profiler.py", line 15, in performance_profiler.profile_method.decorator.wrapper
+  File "test_ai_mod/carbon_utils/performance_profiler.py", line 12, in performance_profiler.profile_method.decorator.wrapper
+  File "test_ai_mod/carbon_explore/explore.py", line 355, in explore.perform_walk
+  File "test_ai_mod/carbon_explore/explore.py", line 318, in explore.perform_walk
+  File "test_ai_mod/carbon_initialization/initialization.py", line 189, in initialization.initialize_run
+  File "test_ai_mod/carbon_utils/simulator_tools.py", line 193, in simulator_tools.clean_iteration_state
+  File "test_ai_mod/carbon_automation/driver_factory.py", line 167, in driver_factory.DriverFactory.create_android_driver
+  File "test_ai_mod/carbon_automation/driver_factory.py", line 180, in driver_factory.DriverFactory._create
+  File "test_ai_mod/carbon_automation/driver.py", line 37, in driver.Driver.__init__
+  File "test_ai_mod/carbon_automation/sessions/http/http_session_adapter_factory.py", line 63, in http_session_adapter_factory.HttpSessionAdapterFactory.get_session
+  File "test_ai_mod/carbon_automation/sessions/http/http_client.py", line 72, in http_client.create_session
+AutomatorSessionError: Error creating session, 500, Command "adb shell dumpsys window" exited with code 1 and output: adb: device offline
+2021-05-25 16:56:19,449 ERROR    test_ai_mod.carbon_tasks.crawl_build_task -- walk: 1 - failed
+2021-05-25 16:56:19,977 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:19,978 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:19,978 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:19,979 INFO     test_ai_mod.carbon_tasks.version_control_tasks -- processing screens and elements (crawl: 20210525165554)
+2021-05-25 16:56:19,979 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- processing crawl: 20210525165554 (app: 2eba1d88-abac-4204-be0a-26a9932f9c3d, build: 3ba98c86-a177-4abd-ba58-28283800da99)
+2021-05-25 16:56:19,979 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- processing screens for crawl
+2021-05-25 16:56:19,997 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing unique screens file
+2021-05-25 16:56:19,998 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing screen hash map
+2021-05-25 16:56:20,000 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing screen similarity file
+2021-05-25 16:56:20,001 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- processing elements for crawl
+2021-05-25 16:56:20,019 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- Writing unique tags file.
+2021-05-25 16:56:20,020 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing unique elems file
+2021-05-25 16:56:20,021 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing elem hash map
+2021-05-25 16:56:20,023 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing elem similarity file
+2021-05-25 16:56:20,024 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- generating and saving feature data for crawl
+2021-05-25 16:56:20,024 INFO     test_ai_mod.carbon_tasks.generate_feature_data_task -- generating feature data for crawl: 20210525165554, app_id: 2eba1d88-abac-4204-be0a-26a9932f9c3d, build_id: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:20,025 INFO     test_ai_mod.carbon_tasks.generate_feature_data_task -- generating screen feature data
+2021-05-25 16:56:20,033 INFO     test_ai_mod.carbon_tasks.generate_feature_data_task -- saving screen feature data
+2021-05-25 16:56:20,036 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- generating labeler objects file for crawl (v0)
+2021-05-25 16:56:20,036 ERROR    test_ai_mod.carbon_tasks.labeler_objects_task -- no screen uniques data found
+2021-05-25 16:56:20,037 ERROR    test_ai_mod.carbon_tasks.labeler_objects_task -- no elem uniques data found
+2021-05-25 16:56:20,037 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- reconciling screens labeled at runtime
+2021-05-25 16:56:20,037 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- reconciling elements labeled at runtime
+2021-05-25 16:56:20,039 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:20,041 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- processing crawl: 20210525165554 (app: 2eba1d88-abac-4204-be0a-26a9932f9c3d, build: 3ba98c86-a177-4abd-ba58-28283800da99)
+2021-05-25 16:56:20,041 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- processing screens for crawl
+2021-05-25 16:56:20,051 INFO     werkzeug -- 127.0.0.1 - - [25/May/2021 16:56:20] "[37mGET /api/v2/status HTTP/1.1[0m" 200 -
+2021-05-25 16:56:20,065 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing unique screens file
+2021-05-25 16:56:20,066 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing screen hash map
+2021-05-25 16:56:20,066 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing screen similarity file
+2021-05-25 16:56:20,066 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- processing elements for crawl
+2021-05-25 16:56:20,089 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- Writing unique tags file.
+2021-05-25 16:56:20,090 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing unique elems file
+2021-05-25 16:56:20,091 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing elem hash map
+2021-05-25 16:56:20,093 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- writing elem similarity file
+2021-05-25 16:56:20,093 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- generating and saving feature data for crawl
+2021-05-25 16:56:20,094 INFO     test_ai_mod.carbon_tasks.generate_feature_data_task -- generating feature data for crawl: 20210525165554, app_id: 2eba1d88-abac-4204-be0a-26a9932f9c3d, build_id: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:20,094 INFO     test_ai_mod.carbon_tasks.generate_feature_data_task -- generating screen feature data
+2021-05-25 16:56:20,107 INFO     test_ai_mod.carbon_tasks.generate_feature_data_task -- saving screen feature data
+2021-05-25 16:56:20,109 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- generating labeler objects file for crawl (v0)
+2021-05-25 16:56:20,109 ERROR    test_ai_mod.carbon_tasks.labeler_objects_task -- no screen uniques data found
+2021-05-25 16:56:20,110 ERROR    test_ai_mod.carbon_tasks.labeler_objects_task -- no elem uniques data found
+2021-05-25 16:56:20,110 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- reconciling screens labeled at runtime
+2021-05-25 16:56:20,110 INFO     test_ai_mod.carbon_tasks.process_crawl_task -- reconciling elements labeled at runtime
+2021-05-25 16:56:20,112 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- generating auto labels for crawl: 20210525165554, app_id: 2eba1d88-abac-4204-be0a-26a9932f9c3d, build_id: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:20,113 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:20,116 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:20,117 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:20,118 INFO     test_ai_mod.carbon_dao.local_carbon_dao -- Getting build info: APP_ID: 2eba1d88-abac-4204-be0a-26a9932f9c3d, BUILD_ID: 3ba98c86-a177-4abd-ba58-28283800da99
+2021-05-25 16:56:20,118 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20210525163340
+2021-05-25 16:56:20,120 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20210525165416
+2021-05-25 16:56:20,121 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- getting data for crawl: 20210525165554
+2021-05-25 16:56:20,122 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- processing crawl: 20210525163340
+2021-05-25 16:56:20,123 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- processing crawl: 20210525165416
+2021-05-25 16:56:20,124 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- processing crawl: 20210525165554
+2021-05-25 16:56:20,138 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20210525165416
+2021-05-25 16:56:20,139 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20210525165554
+2021-05-25 16:56:20,139 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20210525163340
+2021-05-25 16:56:20,142 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- writing applied hashes to labels to file: /Users/bot/test_ai/apps/2eba1d88-abac-4204-be0a-26a9932f9c3d/lkg/hashes_to_labels.json
+2021-05-25 16:56:20,143 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- writing applied human readable to labels to file: /Users/bot/test_ai/apps/2eba1d88-abac-4204-be0a-26a9932f9c3d/lkg/human_readable_to_labels.json
+2021-05-25 16:56:20,145 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- writing label to hash dicts to file: /Users/bot/test_ai/apps/2eba1d88-abac-4204-be0a-26a9932f9c3d/lkg/label_to_hash_dicts.json
+2021-05-25 16:56:20,146 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- writing human readable to paths to file: /Users/bot/test_ai/apps/2eba1d88-abac-4204-be0a-26a9932f9c3d/lkg/human_readable_to_paths.json
+2021-05-25 16:56:20,147 INFO     test_ai_mod.carbon_classifiers.label_classifier_pipe -- Begin loading configured modules
+2021-05-25 16:56:20,149 INFO     test_ai_mod.carbon_classifiers.carbon_classifier_v1.screen_classifier -- Loading ScreenClassifier
+2021-05-25 16:56:20,149 INFO     test_ai_mod.carbon_classifiers.template_matching.app_specific_template_matcher -- Loading AppSpecificTemplateMatcher
+2021-05-25 16:56:20,150 INFO     test_ai_mod.carbon_classifiers.perceptual.nn_classifier -- Loading NNClassifier
+2021-05-25 16:56:20,150 INFO     test_ai_mod.carbon_classifiers.template_matching.template_matching_classifier -- Loading TemplateMatchingClassifier
+2021-05-25 16:56:20,150 WARNING  test_ai_mod.carbon_classifiers.template_matching.template_matching_classifier -- No template director exists at /Users/bot/test_ai/templates
+2021-05-25 16:56:20,150 INFO     test_ai_mod.carbon_classifiers.http_classifier.http_classifier -- Loaded Http Classifier for ""
+2021-05-25 16:56:20,150 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- classifying 0 unique screens
+2021-05-25 16:56:20,151 INFO     test_ai_mod.carbon_dao.carbon_data -- loading models from LKG dir
+2021-05-25 16:56:20,151 INFO     test_ai_mod.carbon_dao.carbon_data -- loading models from LKG dir
+2021-05-25 16:56:20,159 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- classifying 0 unique elems
+2021-05-25 16:56:20,159 INFO     test_ai_mod.carbon_dao.carbon_data -- loading models from LKG dir
+2021-05-25 16:56:20,159 INFO     test_ai_mod.carbon_dao.carbon_data -- loading models from LKG dir
+2021-05-25 16:56:20,160 INFO     test_ai_mod.carbon_classifiers.label_classifier_pipe -- Begin labeling elements
+2021-05-25 16:56:20,171 INFO     test_ai_mod.carbon_classifiers.template_matching.app_specific_template_matcher -- Classifying screen with AppSpecificTemplateMatcher
+2021-05-25 16:56:20,172 INFO     test_ai_mod.carbon_classifiers.perceptual.nn_classifier -- Classifying screen with NNClassifier
+2021-05-25 16:56:20,196 INFO     test_ai_mod.carbon_classifiers.label_classifier_pipe -- End labeling elements: Time taken 0.0366020202637 seconds
+2021-05-25 16:56:20,198 INFO     test_ai_mod.carbon_tasks.generate_auto_labels_task -- writing merged, suggested labels for crawl: 20210525165554
+2021-05-25 16:56:20,201 INFO     test_ai_mod.carbon_controllers.crawls -- Removing threaded log file handler for crawl.

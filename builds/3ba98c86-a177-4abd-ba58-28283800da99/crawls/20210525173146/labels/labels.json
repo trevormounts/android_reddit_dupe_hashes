@@ -1,0 +1,23 @@
+{
+    "elems": {
+        "iter_00000_step_00001_12_android.widget.Button.png": [
+            "btn_skip"
+        ], 
+        "iter_00000_step_00003_28_android.widget.TextView.png": [
+            "tab_home"
+        ], 
+        "iter_00000_step_00003_30_android.widget.TextView.png": [
+            "tab_popular"
+        ], 
+        "iter_00000_step_00003_52_android.widget.ImageView.png": [
+            "icn_home"
+        ], 
+        "iter_00000_step_00003_54_android.widget.ImageView.png": [
+            "icn_communities"
+        ], 
+        "iter_00000_step_00003_57_android.widget.ImageView.png": [
+            "icn_create_post"
+        ]
+    }, 
+    "screens": {}
+}

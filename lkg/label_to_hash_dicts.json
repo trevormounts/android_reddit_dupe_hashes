@@ -1,0 +1,20 @@
+{
+    "btn_skip": [
+        "android.widget.Button_838_171_242_99_android.widget.Button_00000000000000000000038007c007e007e007e007e000400000000000000000_47cce5564cd25f55ec7f53cf0c317a0d"
+    ], 
+    "icn_communities": [
+        "android.widget.ImageView_291_2044_66_66_android.widget.ImageView_ffffe783c1019d399d399d39c101f783cbff81839cbb9c399cb98083c1c1ffff_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "icn_create_post": [
+        "android.widget.ImageView_507_2043_66_66_android.widget.ImageView_fffffffffe7ffe7ffe7ffe7ffe7fc003c001fe7ffe7ffe7ffe7ffe7fff7fffff_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "icn_home": [
+        "android.widget.ImageView_75_2044_66_66_android.widget.ImageView_fffffc3ff81fe007c0030000800180018001818183c183c183c183c183c1ffff_9d4568c009d203ab10e33ea9953a0264"
+    ], 
+    "tab_home": [
+        "android.widget.TextView_372_367_118_59_android.widget.TextView_ffffffffffffffff6fff2fff690d000004426400240320006944ffffffffffff_4f113e6636baf9e2e6ab5f9a2d3031d2"
+    ], 
+    "tab_popular": [
+        "android.widget.TextView_563_367_152_59_android.widget.TextView_ffffffffffffffef1fef1fef4402400008082800680060007480fdfffdffffff_d929cd832a1ccf36d0ac1120c6a1912b"
+    ]
+}

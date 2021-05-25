@@ -1,0 +1,9 @@
+[
+    "android.view.View", 
+    "android.widget.Button", 
+    "android.widget.FrameLayout", 
+    "android.widget.LinearLayout", 
+    "android.widget.ScrollView", 
+    "android.widget.TextView", 
+    "TemplateMatchElement"
+]

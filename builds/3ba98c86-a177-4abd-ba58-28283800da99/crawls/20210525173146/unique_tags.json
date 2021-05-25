@@ -1,0 +1,18 @@
+[
+    "android.view.View", 
+    "android.view.ViewGroup", 
+    "android.widget.Button", 
+    "android.widget.FrameLayout", 
+    "android.widget.HorizontalScrollView", 
+    "android.widget.ImageButton", 
+    "android.widget.ImageView", 
+    "android.widget.LinearLayout", 
+    "android.widget.RelativeLayout", 
+    "android.widget.ScrollView", 
+    "android.widget.TextView", 
+    "android.widget.ViewSwitcher", 
+    "androidx.drawerlayout.widget.DrawerLayout", 
+    "androidx.recyclerview.widget.RecyclerView", 
+    "androidx.viewpager.widget.ViewPager", 
+    "TemplateMatchElement"
+]
